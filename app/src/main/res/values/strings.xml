@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Mariteam</string>
+    
+    <string name="nama_produk1">Ikan Fahaka Fuffer Fish / Ikan Buntal Air tawar</string>
+    <string name="harga1">Rp27.500</string>
+    <string name="stok1">50</string>
+    <string name="berat1">250gr</string>
+    <string name="kondisi1">Hidup </string>
+    <string name="kategori1">Ikan Air Tawar</string>
+    <string name="pemesanan_min1">10 ekor</string>
+    <string name="deskripsi1">Data Ikan : Fahaka Fuffer Fish \n
+			Size : 3-4 cm -/+ \n
+			Diet : Casut, Cabek, Jantik Nyamuk \n
+			Adaptasi : Air Tawar)</string>
+    <string name="dikirim_dari1">Jakarta Barat, Cengkareng</string>
+    <string name="nama_penjual1"></string>
+    <string name="waktu_preorder1"></string>
+
+    <string name="nama_produk2"></string>
+    <string name="harga2"></string>
+    <string name="stok2"></string>
+    <string name="berat2"></string>
+    <string name="kondisi2"></string>
+    <string name="kategori2"></string>
+    <string name="pemesanan_min2"></string>
+    <string name="deskripsi2"></string>
+    <string name="dikirim_dari2"></string>
+    <string name="nama_penjual2"></string>
+    <string name="waktu_preorder2"></string>
+
+    <string name="nama_produk3"></string>
+    <string name="harga3"></string>
+    <string name="stok3"></string>
+    <string name="berat3"></string>
+    <string name="kondisi3"></string>
+    <string name="kategori3"></string>
+    <string name="pemesanan_min3"></string>
+    <string name="deskripsi3"></string>
+    <string name="dikirim_dari3"></string>
+    <string name="nama_penjual3"></string>
+    <string name="waktu_preorder3"></string>
+
+    <string name="nama_produk4"></string>
+    <string name="harga4"></string>
+    <string name="stok4"></string>
+    <string name="berat4"></string>
+    <string name="kondisi4"></string>
+    <string name="kategori4"></string>
+    <string name="pemesanan_min4"></string>
+    <string name="deskripsi4"></string>
+    <string name="dikirim_dari4"></string>
+    <string name="nama_penjual4"></string>
+    <string name="waktu_preorder4"></string>
+
+    <string name="nama_produk5"></string>
+    <string name="harga5"></string>
+    <string name="stok5"></string>
+    <string name="berat5"></string>
+    <string name="kondisi5"></string>
+    <string name="kategori5"></string>
+    <string name="pemesanan_min5"></string>
+    <string name="deskripsi5"></string>
+    <string name="dikirim_dari5"></string>
+    <string name="nama_penjual5"></string>
+    <string name="waktu_preorder5"></string>
+
+    <string name="nama_produk6"></string>
+    <string name="harga6"></string>
+    <string name="stok6"></string>
+    <string name="berat6"></string>
+    <string name="kondisi6"></string>
+    <string name="kategori6"></string>
+    <string name="pemesanan_min6"></string>
+    <string name="deskripsi6"></string>
+    <string name="dikirim_dari6"></string>
+    <string name="nama_penjual6"></string>
+    <string name="waktu_preorder6"></string>
+
+    <string name="nama_produk7"></string>
+    <string name="harga7"></string>
+    <string name="stok7"></string>
+    <string name="berat7"></string>
+    <string name="kondisi7"></string>
+    <string name="kategori7"></string>
+    <string name="pemesanan_min7"></string>
+    <string name="deskripsi7"></string>
+    <string name="dikirim_dari7"></string>
+    <string name="nama_penjual7"></string>
+    <string name="waktu_preorder7"></string>
+
+    <string name="nama_produk8"></string>
+    <string name="harga8"></string>
+    <string name="stok8"></string>
+    <string name="berat8"></string>
+    <string name="kondisi8"></string>
+    <string name="kategori8"></string>
+    <string name="pemesanan_min8"></string>
+    <string name="deskripsi8"></string>
+    <string name="dikirim_dari8"></string>
+    <string name="nama_penjual8"></string>
+    <string name="waktu_preorder8"></string>
+
+    <string name="nama_produk9"></string>
+    <string name="harga9"></string>
+    <string name="stok9"></string>
+    <string name="berat9"></string>
+    <string name="kondisi9"></string>
+    <string name="kategori9"></string>
+    <string name="pemesanan_min9"></string>
+    <string name="deskripsi9"></string>
+    <string name="dikirim_dari9"></string>
+    <string name="nama_penjual9"></string>
+    <string name="waktu_preorder9"></string>
+
+    <string name="nama_produk0"></string>
+    <string name="harga0"></string>
+    <string name="stok0"></string>
+    <string name="berat0"></string>
+    <string name="kondisi0"></string>
+    <string name="kategori0"></string>
+    <string name="pemesanan_min0"></string>
+    <string name="deskripsi0"></string>
+    <string name="dikirim_dari0"></string>
+    <string name="nama_penjual0"></string>
+    <string name="waktu_preorder0"></string>
+
+
+</resources>
