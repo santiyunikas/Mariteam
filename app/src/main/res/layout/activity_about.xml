@@ -5,28 +5,42 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".AboutActivity"
-    android:layout_gravity="center"
-    android:gravity="center"
     android:orientation="vertical">
 
-    <ImageView
-        android:layout_width="200dp"
-        android:layout_height="200dp"
-        android:id="@+id/profile_photo"
-        android:src="@color/colorPrimaryDark"/>
+    <Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        >
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:id="@+id/profile_photo"
+            android:src="@color/colorPrimaryDark"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Santi Yunika Sufiana"
+            android:fontFamily="@font/carlito_regular"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:textSize="15sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="santiyunikas@gmail.com"
+            android:fontFamily="@font/carlito_regular"
+            android:textStyle="italic"
+            android:textColor="@color/black"
+            android:textSize="15sp"/>
+    </LinearLayout>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Santi Yunika Sufiana"
-        android:fontFamily="@font/carlito_bold"
-        android:textColor="@color/black"
-        android:textSize="15sp"/>
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="santiyunikas@gmail.com"
-        android:fontFamily="@font/carlito_italic"
-        android:textColor="@color/black"
-        android:textSize="15sp"/>
 </LinearLayout>

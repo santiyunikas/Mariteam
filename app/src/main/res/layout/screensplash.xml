@@ -22,7 +22,8 @@
         android:layout_height="wrap_content"
         android:text="@string/app_name"
         android:textSize="40sp"
-        android:fontFamily="@font/carlito_italic"
+        android:fontFamily="@font/carlito_regular"
+        android:textStyle="italic"
         android:textColor="@color/black"
         />
 </LinearLayout>

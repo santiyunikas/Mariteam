@@ -1,174 +1,19 @@
 <resources>
     <string name="app_name">Mariteam</string>
-
-    <string name="nama_produk1">Ikan Fahaka Fuffer Fish / Ikan Buntal Air tawar</string>
-    <string name="harga1">Rp27.500</string>
-    <string name="stok1">50</string>
-    <string name="berat1">250gr</string>
-    <string name="kondisi1">Hidup </string>
-    <string name="kategori1">Ikan Air Tawar</string>
-    <string name="pemesanan_min1">10 ekor</string>
-    <string name="deskripsi1">Data Ikan : Fahaka Fuffer Fish \n
-			Size : 3-4 cm -/+ \n
-			Diet : Casut, Cabek, Jantik Nyamuk \n
-			Adaptasi : Air Tawar)</string>
-    <string name="dikirim_dari1">Jakarta Barat, Cengkareng</string>
-    <string name="nama_penjual1">Benaya Fish Farn</string>
-    <string name="waktu_preorder1">1 hari</string>
-
-    <string name="nama_produk2">Shrimp Roll (Frozen Food Bento) Isi 10 Termurah Dijamin 100% HALAL</string>
-    <string name="harga2">Rp19.000</string>
-    <string name="stok2">50</string>
-    <string name="berat2">350gr</string>
-    <string name="kondisi2">Frozen</string>
-    <string name="kategori2">Frozen Food</string>
-    <string name="pemesanan_min2">1Kg</string>
-    <string name="deskripsi2">Homemade Shrimp Roll / Udang Cincang Gulung Telur\n
-1 Pack : 10 Pcs\n
-- Panaskan minyak goreng\n
-- Setelah minyak panas, kecilkan api\n
-- Masukkan shrimp roll\n
-- Goreng dlm keadaan beku dengan api yang kecil (hal ini utk mencegah shrimp roll jadi gosong krn di dalamnya msh beku)\n
-- Masa Konsumsi 2bulan dengan penyimpanan di freezer sejak barang diterima (Produk FRESH produksi baru setiap hari)\n
-Karna Frozen food Jadi harus selalu simpan di freezer\n.</string>
-    <string name="dikirim_dari2">Kota Depok</string>
-    <string name="nama_penjual2">Ratih Frozen Food</string>
-    <string name="waktu_preorder2">Ready Stok</string>
-
-    <string name="nama_produk3">Cedea Steamboat Suki plus bumbu 500g Suki frozen food bandung - 300g</string>
-    <string name="harga3">Rp32.000</string>
-    <string name="stok3">10</string>
-    <string name="berat3">600gr</string>
-    <string name="kondisi3">Frozen</string>
-    <string name="kategori3">Frozen Food</string>
-    <string name="pemesanan_min3">600gr</string>
-    <string name="deskripsi3">Deskripsi Cedea Steamboat Suki plus bumbu 500g Suki frozen food bandung - 300g\n
-bikin suki atau steamboat di rumah anti ribet\n</string>
-    <string name="dikirim_dari3">Kota Bandung</string>
-    <string name="nama_penjual3">Nuta Polite</string>
-    <string name="waktu_preorder3">Ready Stok</string>
-
-    <string name="nama_produk4">50 Pcs - Dimsum Siomay Premium Super Grosir Frozen Food Halal</string>
-    <string name="harga4">Rp100.000</string>
-    <string name="stok4">Pre Order</string>
-    <string name="berat4">2Kg</string>
-    <string name="kondisi4">Frozen</string>
-    <string name="kategori4">Frozen Food</string>
-    <string name="pemesanan_min4">2kg</string>
-    <string name="deskripsi4">1 paket isi 50 pc ada 5 varian toping udang, beef, tuna, jamur, dan wortel</string>
-    <string name="dikirim_dari4">Kota Tangerang Selatan</string>
-    <string name="nama_penjual4">Small Food</string>
-    <string name="waktu_preorder4">1 Hari</string>
-
-    <string name="nama_produk5">ikan tenggiri segar | seafood | hasil laut segar</string>
-    <string name="harga5">Rp95.000</string>
-    <string name="stok5">Pre Order</string>
-    <string name="berat5">1kg</string>
-    <string name="kondisi5">Frozen</string>
-    <string name="kategori5">Ikan Air Laut</string>
-    <string name="pemesanan_min5">1kg</string>
-    <string name="deskripsi5">Deskripsi ikan tenggiri segar | seafood | hasil laut segar\n
-Ikan tenggiri segar langsung dari pelelangan ikan/hasil tangkapan para nelayan harian di jakarta, 100% fresh\n
-Kondisi:\n
-* ikan tenggiri yang sehat, bersih, segar dan berkwalitas\n
-* 100 halal tanpa bahan pengawet\n
-* Menjual produk dengan real dan amanah terpercaya\n
-* Size semua ukuran\n
-* Dikemas secara higienis\n
-* Packing rapi, aman dan siap dikirim\n
-* packing menggunakan kantong palstik/kantong kresek ,tidak menggunakan box/strofrom\n
-</string>
-    <string name="dikirim_dari5">Jakarta Utara</string>
-    <string name="nama_penjual5">North Seafood Jakarta</string>
-    <string name="waktu_preorder5">1 Hari</string>
-
-    <string name="nama_produk6">IKAN LAUT/IKAN SEGAR/IKAN BEKU/ IKAN TENGGIRI STEAK SUPER - 500 GRAM</string>
-    <string name="harga6">Rp48.000</string>
-    <string name="stok6">50</string>
-    <string name="berat6">500gr</string>
-    <string name="kondisi6">Frozen</string>
-    <string name="kategori6">Ikan Air Laut</string>
-    <string name="pemesanan_min6">500gr</string>
-    <string name="deskripsi6">BAHAN: TENGGIRI SEGAR SEKALI, DAGING KENYAL, TIDAK BAKAL KECEWA!!\n
-KUALITAS: SUPER BAGUS, BEKU KAPAL, KULIT IKAN BAGUS, INSANG MERAH, SUDAH DIPOTONG STEAK TINGGAL DIMASAK\n
-WARNA DAGING: PINK KEMERAHAN\n
-1KG BISA 7-8 KEPING\n
-KONDISI: FROZEN\n
-Penyimpanan:\n
-Produk ikan sangat berpengaruh pada suhu sehingga untuk mempertahankan kualitas yang baik pastikan selalu tersimpan di dalam freezer (beku)</string>
-    <string name="dikirim_dari6">Kota Tangerang</string>
-    <string name="nama_penjual6">Sentra Ikan Laut</string>
-    <string name="waktu_preorder6">Ready Stok</string>
-    <string name="nama_produk7">ikan gabus air tawar | seafood | hasil laut segar</string>
-    <string name="harga7">Rp60.000</string>
-    <string name="stok7">Pre Order</string>
-    <string name="berat7">1kg</string>
-    <string name="kondisi7">Frozen</string>
-    <string name="kategori7">Ikan Air Tawar</string>
-    <string name="pemesanan_min7">3kg</string>
-    <string name="deskripsi7">Ikan gabus segar langsung dari pelelangan ikan/hasil tangkapan para nelayan harian di jakarta, 100% fresh\n
-Kondisi:\n
-* ikan gabus yang sehat, bersih, segar dan berkwalitas\n
-* 100 halal tanpa bahan pengawet\n
-* Menjual produk dengan real dan amanah terpercaya\n
-* Size semua ukuran\n
-* Dikemas secara higienis\n
-* Packing rapi, aman dan siap dikirim\n
-* packing menggunakan kantong palstik/kantong kresek ,tidak menggunakan box/strofrom</string>
-    <string name="dikirim_dari7">Jakarta Utara</string>
-    <string name="nama_penjual7">North Seafood Jakarta</string>
-    <string name="waktu_preorder7">1 Hari</string>
-
-    <string name="nama_produk8">ikan bawal air tawar | seafood | hasil laut segar</string>
-    <string name="harga8">Rp35.000</string>
-    <string name="stok8">Pre Order</string>
-    <string name="berat8">1kg</string>
-    <string name="kondisi8">Frozen</string>
-    <string name="kategori8">Ikan Air Tawar</string>
-    <string name="pemesanan_min8">5kg</string>
-    <string name="deskripsi8">ikan bawal air tawar segar langsung dari pelelangan\n
-        ikan/hasil tangkapan para nelayan harian di jakarta, 100% fresh\n
-			Kondisi:\n
-			* ikan bawal air tawar yang sehat, bersih, segar dan berkwalitas\n
-			* 100 halal tanpa bahan pengawet\n
-			* Menjual produk dengan real dan amanah terpercaya\n
-			* Size semua ukuran\n
-			* Dikemas secara higienis\n
-			* Packing rapi, aman dan siap dikirim\n
-			* packing menggunakan kantong palstik/kantong kresek,tidak menggunakan box/strofrom</string>
-    <string name="dikirim_dari8">Jakarta Utara</string>
-    <string name="nama_penjual8">North Seafood Jakarta</string>
-    <string name="waktu_preorder8">1 Hari</string>
-
-    <string name="nama_produk9">Ikan patin hidup</string>
-    <string name="harga9">Rp20.000</string>
-    <string name="stok9">Pre Order</string>
-    <string name="berat9">1kg</string>
-    <string name="kondisi9">Hidup</string>
-    <string name="kategori9">Ikan Air Tawar</string>
-    <string name="pemesanan_min9">10 Ekor</string>
-    <string name="deskripsi9">Ikan patin hidup segar dan fresh.\n
-Harga di atas sudah termasuk packing dan oksigen\n
-. Harga di atas merupakan harga satuan.\n
-.pemesanan untuk pengiriman hidup\n
-.ukuran ikan , 30-45 cm </string>
-    <string name="dikirim_dari9">Jakarta Barat</string>
-    <string name="nama_penjual9">Kotafish27</string>
-    <string name="waktu_preorder9">1 Hari</string>
-
-    <string name="nama_produk0">Ikan Kerapu Hidup (Benih)</string>
-    <string name="harga0">Rp3.000</string>
-    <string name="stok0">Pre Order</string>
-    <string name="berat0">1kg</string>
-    <string name="kondisi0">Hidup</string>
-    <string name="kategori0">Ikan Air Tawar</string>
-    <string name="pemesanan_min0">1000 Ekor</string>
-    <string name="deskripsi0">Jual benih ikan kerapu hidup. Termasuk kerapu hybrid\n
-Kerapu Cantang\n
-Kerapu Cantik\n
-Kerapu Bebek\n
-Kerapu Macan </string>
-    <string name="dikirim_dari0">Kab. Situbondo</string>
-    <string name="nama_penjual0">Tambal Hanif</string>
-    <string name="waktu_preorder0">1 Hari</string>
+    <string name="about">About</string>
+    <string name="judul">Judul</string>
+    <string name="harga">Harga</string>
+    <string name="nama_toko">Nama Toko</string>
+    <string name="dikirim_dari">Dikirim dari</string>
+    <string name="informasi_produk">Informasi Produk</string>
+    <string name="berat">Berat</string>
+    <string name="kondisi">Kondisi</string>
+    <string name="pemesanan_min">Pemesanan Min</string>
+    <string name="lama_pre_order">Lama Pre Order</string>
+    <string name="kategori">Kategori</string>
+    <string name="deskripsi_produk">Deskripsi Produk</string>
+    <string name="deskripsi_lengkap_dari_produk">Deskripsi Lengkap dari Produk</string>
+    <string name="ikan_air_laut">Hasil Laut</string>
+    <string name="frozen_food">Frozen Food</string>
+    <string name="ikan_air_tawar">Ikan Air Tawar</string>
 </resources>

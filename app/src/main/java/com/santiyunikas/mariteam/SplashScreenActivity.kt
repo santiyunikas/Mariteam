@@ -8,7 +8,6 @@ import androidx.appcompat.app.AppCompatActivity
 
 class SplashScreenActivity: AppCompatActivity() {
     lateinit var handler: Handler
-    lateinit var actionBar: ActionBar
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -20,8 +19,5 @@ class SplashScreenActivity: AppCompatActivity() {
             startActivity(intent)
             finish()
         }, 5000)
-
-        actionBar = supportActionBar!!
-        actionBar.hide()
     }
 }

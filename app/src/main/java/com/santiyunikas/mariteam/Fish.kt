@@ -1,7 +1,7 @@
 package com.santiyunikas.mariteam
 
 class Fish {
-    var productName: String = ""
+    var title: String = ""
     var price: String = ""
     var weight: String = ""
     var condition: String = ""
@@ -11,4 +11,5 @@ class Fish {
     var sendFrom: String = ""
     var sellerName: String = ""
     var preorderTime: String = ""
+    var imgProduct: Int = 0
 }
