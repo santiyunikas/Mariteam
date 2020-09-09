@@ -4,11 +4,11 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.MenuItem
-import android.widget.ImageView
-import android.widget.TextView
-import android.widget.Toolbar
+import android.view.View
+import android.widget.*
+import kotlinx.android.synthetic.main.activity_detail.*
 
-class DetailActivity : AppCompatActivity() {
+class DetailActivity : AppCompatActivity(), View.OnClickListener{
 
     private var EXTRA_IMAGEDETAIL = "extra_imagedetail"
     private var EXTRA_TITLE = "extra_title"
@@ -33,6 +33,11 @@ class DetailActivity : AppCompatActivity() {
     private lateinit var tvPreordertimeDetail: TextView
     private lateinit var tvCategoryDetail: TextView
     private lateinit var tvDescDetail: TextView
+    private lateinit var btnBuy: Button
+    private lateinit var btnPlus: Button
+    private lateinit var btnMin: Button
+    private lateinit var edtWeight: EditText
+    private var weight = 0
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -49,9 +54,34 @@ class DetailActivity : AppCompatActivity() {
         tvPreordertimeDetail = findViewById(R.id.tv_preordertime_detail)
         tvCategoryDetail= findViewById(R.id.tv_category_detail)
         tvDescDetail= findViewById(R.id.tv_desc_detail)
+        btnBuy = findViewById(R.id.btn_buy)
+        btnPlus = findViewById(R.id.btn_plus)
+        btnMin = findViewById(R.id.btn_min)
+        edtWeight = findViewById(R.id.input_weight)
+
+        btnBuy.setOnClickListener(this)
+        btnMin.setOnClickListener(this)
+        btnPlus.setOnClickListener(this)
+        weight = edtWeight.text.toString().trim().toInt()
 
         toolbarSet()
         getExtra()
+    }
+
+    override fun onClick(v: View?) {
+        when(v?.id){
+            btnPlus.id -> {
+                weight += 1
+                edtWeight.setText(weight.toString())
+            }
+            btnMin.id ->{
+                if(weight > 0){
+                    weight -= 1
+                    edtWeight.setText(weight.toString())
+                }
+
+            }
+        }
     }
 
     fun toolbarSet(){

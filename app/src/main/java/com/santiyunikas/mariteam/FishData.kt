@@ -88,13 +88,13 @@ object FishData {
     private val minPurchases = arrayOf(
         "1000 Ekor",
         "10 Ekor",
-        "1Kg",
-        "600gr",
-        "2Kg",
-        "1Kg",
-        "500gr",
-        "3Kg",
-        "5Kg",
+        "1 Kg",
+        "1 Kg",
+        "2 Kg",
+        "1 Kg",
+        "1 Kg",
+        "3 Kg",
+        "5 Kg",
         "10 Ekor"
     )
 
